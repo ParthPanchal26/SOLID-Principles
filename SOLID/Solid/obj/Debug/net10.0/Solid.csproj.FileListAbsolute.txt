@@ -12,3 +12,4 @@ D:\data\ASP.NET core web api\SOLID\SOLID\Solid\obj\Debug\net10.0\refint\Solid.dl
 D:\data\ASP.NET core web api\SOLID\SOLID\Solid\obj\Debug\net10.0\Solid.pdb
 D:\data\ASP.NET core web api\SOLID\SOLID\Solid\obj\Debug\net10.0\Solid.genruntimeconfig.cache
 D:\data\ASP.NET core web api\SOLID\SOLID\Solid\obj\Debug\net10.0\ref\Solid.dll
+D:\data\ASP.NET core web api\SOLID\SOLID\Solid\obj\Debug\net10.0\Solid.csproj.Up2Date

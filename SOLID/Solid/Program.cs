@@ -1,5 +1,7 @@
-﻿using Solid.O;
+﻿using Solid.L;
+using Solid.O;
 using Solid.S;
+using Solid.src.D;
 
 namespace Solid
 {
@@ -33,6 +35,31 @@ namespace Solid
             // var cb_area = cuboid.CalculateArea();
             // System.Console.WriteLine($"Cuboid Area: {cb_area}");
 
+        /* 3. Liskov Substitution Principle */
+            // var shape = new Area();
+
+            // var r_area = shape.GetArea(
+            //     new L.Rectangle
+            //     {
+            //         Height = 5,
+            //         Width = 4
+            //     }
+            // );
+
+            // var s_area = shape.GetArea(
+            //     new L.Square
+            //     {
+            //         SideLength = 5
+            //     }
+            // );
+
+            // System.Console.WriteLine($"Rectangle Area : {r_area}");
+            // System.Console.WriteLine($"Square Area : {s_area}");
+
+
+            var c = new Car(new Engine());
+            c.StartCar();
+            
 
         }
     }
